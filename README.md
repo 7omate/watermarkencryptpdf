@@ -4,10 +4,12 @@ QuickActions did not work for me, more info on quickactions in https://www.maket
 
 # Pre-requisites
 Ensure the files are executable
+
 	chmod +x *.py
 	chmod +x *.php
 
 Modify watermarkencrypt.bash to suit your needs then run it:
+
 	bash watermarkencrypt.bash
 
 # Explanations
